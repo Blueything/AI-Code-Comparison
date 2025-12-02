@@ -67,5 +67,9 @@ This project is open for experimentation and learning. Feel free to explore and 
 > *“The best tool isn’t always the fastest; it’s the one that aligns with your purpose.”*  
 > **— Hardik Ghori**
 
+📖 Read the full article:  
+[Gemini 3 Pro vs ChatGPT-5 — AI Developer Personality](https://medium.com/p/0d8f8a7c6cd8)
+
+
 
 
