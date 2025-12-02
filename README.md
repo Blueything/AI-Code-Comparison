@@ -19,8 +19,8 @@ The goal:
 
 | File | Description |
 |------|-------------|
-| `index-gptA.html` | Gemini 3 Pro output: structured, verbose, polished, with full comments and accessibility features. |
-| `index-gptB.html` | ChatGPT-5 output: fast, minimal, expressive prototype with interactive AI/Human panels. |
+| `index_gemini.html` | Gemini 3 Pro output: structured, verbose, polished, with full comments and accessibility features. |
+| `index_gpt5chat.html` | ChatGPT-5 output: fast, minimal, expressive prototype with interactive AI/Human panels. |
 
 ---
 
@@ -42,4 +42,26 @@ The goal:
 
 ```bash
 git clone https://github.com/Blueything/AI-Code-Comparison.git
+
+2. Open the files in a browser:
+
+-index_gemini.html
+-index_gpt5chat.html
+
+3. Interact with each panel to see differences in AI behavior.
+
+## Observations
+
+Gemini 3 Pro: slower, structured, production-ready, more verbose
+
+ChatGPT-5: fast, minimal, prototype-ready, playful UI
+
+Both approaches highlight different strengths and trade-offs for developers.
+
+## License
+
+This project is open for experimentation and learning. Feel free to explore and modify.
+
+“The best tool isn’t always the fastest; it’s the one that aligns with your purpose.” – Hardik Ghori
+
 
