@@ -1,7 +1,7 @@
 # AI Code Comparison: Gemini 3 Pro vs ChatGPT-5
 
 **Author:** Hardik Ghori  
-**LinkedIn:** [https://www.linkedin.com/in/hardikghori](https://www.linkedin.com/in/hardikghori)
+**LinkedIn:** [link](https://www.linkedin.com/in/hardik-ghori99)
 
 ---
 
