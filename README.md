@@ -42,6 +42,7 @@ The goal:
 
 ```bash
 git clone https://github.com/Blueything/AI-Code-Comparison.git
+```
 
 2. Open the files in a browser:
 
@@ -62,6 +63,9 @@ Both approaches highlight different strengths and trade-offs for developers.
 
 This project is open for experimentation and learning. Feel free to explore and modify.
 
-“The best tool isn’t always the fastest; it’s the one that aligns with your purpose.” – Hardik Ghori
+> ### ✨ Author’s Note  
+> *“The best tool isn’t always the fastest; it’s the one that aligns with your purpose.”*  
+> **— Hardik Ghori**
+
 
 
