@@ -46,8 +46,8 @@ git clone https://github.com/Blueything/AI-Code-Comparison.git
 
 2. Open the files in a browser:
 
--index_gemini.html
--index_gpt5chat.html
+- index_gemini.html
+- index_gpt5chat.html
 
 3. Interact with each panel to see differences in AI behavior.
 
